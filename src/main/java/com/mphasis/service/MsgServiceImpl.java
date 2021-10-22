@@ -20,4 +20,10 @@ public class MsgServiceImpl implements MsgService {
 		
 	}
 
+	@Override
+	public String getMsg() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
